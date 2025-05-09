@@ -1,3 +1,5 @@
 *.csv
 env/
+.env
+__pycache__
 *.rar
